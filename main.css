@@ -42,8 +42,7 @@ img.profile-pic {
 img.logo {
 	height: 60%;
 	width: 60%;
-	object-fit: cover;
-	border-radius: 50%;
+	object-fit: contain;
 }
 
 .container {
